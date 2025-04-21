@@ -1,4 +1,4 @@
-👋 Hi, I'm Maharajan!
+<h1>👋 Hi, I'm Maharajan!</h1>
 🚀 Cybersecurity Specialist | OSINT Expert | Penetration Tester
 🔐 Passionate about Ethical Hacking, VAPT, and Cyber Defense.
 
