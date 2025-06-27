@@ -1,9 +1,9 @@
 <h1>👋 Hi, I'm Maharajan!</h1>
-🚀 Cybersecurity Specialist | OSINT Expert | Penetration Tester
+🚀 Cybersecurity Specialist | OSINT  | Penetration Tester
 🔐 Passionate about Ethical Hacking, VAPT, and Cyber Defense.
 
 🛡️ About Me:
-🎓 Education: B.C.A. Graduate | Pursuing M.Sc. in Cybersecurity
+🎓 Education: B.C.A. Graduate | Pursuing OSCP
 🧑‍💻 Specialties: Networking, Penetration Testing, Bug Bounty, OSINT
 📹 Content Creator: Cybersecurity tutorials on s3cure83
 ⚡ Skills:
